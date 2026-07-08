@@ -1,6 +1,17 @@
 # RankFit
 
+<img src="assets/mascot/fit-chan.png" alt="Fit-chan holding a dumbbell" width="160" align="right">
+
 RankFit is an Android workout timer that turns routines into rank progression, XP, streaks, and unlockable fantasy rank characters.
+
+## Screenshots
+
+<p>
+  <img src="assets/screenshots/routines-home.png" alt="RankFit routines home screen" width="210">
+  <img src="assets/screenshots/routines-list.png" alt="RankFit routines list screen" width="210">
+  <img src="assets/screenshots/workouts.png" alt="RankFit workouts screen" width="210">
+  <img src="assets/screenshots/profile.png" alt="RankFit profile screen" width="210">
+</p>
 
 ## Download
 
