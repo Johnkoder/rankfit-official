@@ -11,7 +11,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/Johnkoder/rankfit-official/releases/latest">
+    <a href="https://github.com/Johnkoder/rankfit-official/releases/tag/v0.1.0-beta.4">
       <img alt="Download APK" src="https://img.shields.io/badge/Download-APK-ff0f7b?style=for-the-badge">
     </a>
     <img alt="Android" src="https://img.shields.io/badge/Android-APK-3ddc84?style=for-the-badge">
@@ -47,7 +47,7 @@ RankFit helps you build timed exercise routines, combine them into workouts, and
 
 ## Download
 
-**Latest APK:** [Download RankFit from GitHub Releases](https://github.com/Johnkoder/rankfit-official/releases/latest)
+**Latest APK:** [Download RankFit v0.1.0 Beta 4](https://github.com/Johnkoder/rankfit-official/releases/tag/v0.1.0-beta.4)
 
 **Current beta:** [RankFit v0.1.0 Beta 4](https://github.com/Johnkoder/rankfit-official/releases/tag/v0.1.0-beta.4)
 
