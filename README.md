@@ -49,7 +49,7 @@ RankFit helps you build timed exercise routines, combine them into workouts, and
 
 **Latest APK:** [Download RankFit from GitHub Releases](https://github.com/Johnkoder/rankfit-official/releases/latest)
 
-**Current beta:** [RankFit v0.1.0 Beta 1](https://github.com/Johnkoder/rankfit-official/releases/tag/v0.1.0-beta.1)
+**Current beta:** [RankFit v0.1.0 Beta 4](https://github.com/Johnkoder/rankfit-official/releases/tag/v0.1.0-beta.4)
 
 ## Install on Android
 
@@ -61,7 +61,7 @@ RankFit helps you build timed exercise routines, combine them into workouts, and
 
 > This APK is installed outside the Play Store. Android may show a warning. Only install it if you trust the source.
 
-> Current beta builds may be debug-signed and intended for testing.
+> Current beta builds are release-signed APKs intended for direct Android installation.
 
 ## Status
 
